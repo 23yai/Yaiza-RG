@@ -10,11 +10,11 @@ Vengo de una sólida experiencia previa en el mundo editorial y administrativo, 
 ## 🧠 Habilidades Técnicas
 
 - **Lenguajes:** Python, SQL, HTML, CSS, DAX (Power BI)
-- **Bases de datos:** MySQL, NoSQL (MongoDB)
+- **Bases de datos:** MySQL, NoSQL (MongoDB), Microsoft Excel
 - **Librerías:** Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
 - **Herramientas:** Power BI, Streamlit, Selenium, Web Scraping, APIs
 - **ML:** Clasificación, regresión, agrupamiento
-- **Otros:** Limpieza de datos, EDA, automatización de procesos
+- **Otros:** Limpieza de datos, EDA, automatización de procesos, ETL
 
 ---
 
@@ -45,7 +45,7 @@ Vengo de una sólida experiencia previa en el mundo editorial y administrativo, 
 
 ## 🤝 Contacto
 
-- 📧 yaiza.rubio@email.com *(reemplaza con tu correo real)*
+- 📧 yaizarubio90@gmail.com
 - 💼 [LinkedIn](https://www.linkedin.com/in/yaiza-rubio-gil-99b3a0250)
 - 🗂️ [GitHub](https://github.com/23yai)
 
