@@ -1,2 +1,0 @@
-# Yaiza-RG
-About me
