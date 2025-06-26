@@ -26,7 +26,7 @@ Vengo de una sólida experiencia previa en el mundo editorial y administrativo, 
 - Modelado SQL y esquemas relacionales
 - Modelos predictivos básicos
 - Visualización con **Streamlit** y **Power BI**
-- [🔗 Ver en GitHub](https://github.com/23yai/DAB0ART)
+- [🔗 Ver en GitHub](https://github.com/23yai/DAB04RT)
 
 ### 🔹 Proyectos semanales
 - Análisis de datos públicos con Python y SQL
